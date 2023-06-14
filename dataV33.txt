@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://freeimghost.net/i/57y5s"},
+  {"desc2":"Standoff is a term used to describe a situation in which two or more parties are at a stalemate or deadlock, usually in a conflict or negotiation","photo2":"https://freeimghost.net/i/57NRI"},
+  {"desc3":" It is a critical moment that requires careful consideration and strategic thinking to navigate successfully","photo3":"https://freeimghost.net/i/57IDP"},
+  {"desc4":"Whether you find yourself in a personal dispute, a business negotiation, or even a political standoff","photo4":"https://freeimghost.net/i/57UEA"},
+  {"desc5":"nderstanding and applying effective tips can help you break through the impasse and achieve a favorable outcome","photo5":"https://freeimghost.net/i/575NB"},
+  {"descd":"Before entering a standoff, it is crucial to define your objectives and priorities. Having a clear understanding of what you want to achieve will help you stay focused and make informed decisions throughout the process","photod":"https://freeimghost.net/i/57CmH"}
    ]
  
 }
